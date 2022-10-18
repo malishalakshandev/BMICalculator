@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="lbl_bmi_result">Your Result</string>
+    <string name="lbl_sub_head">(US Units)</string>
+    <string name="lbl_age">Age</string>
+    <string name="lbl_gender">Gender</string>
+    <string name="lbl_rdo_male">Male</string>
+    <string name="lbl_rdo_female">Female</string>
+    <string name="lbl_height">Height (Foot)</string>
+    <string name="lbl_weight">Weight (Pounds)</string>
+    <string name="lbl_btn_calculate">Calculate</string>
+    <string name="lbl_btn_reset">Reset</string>
+    <string name="lbl_bmi_category">Category</string>
+</resources>
